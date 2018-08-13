@@ -1,0 +1,10 @@
+Install Python
+https://www.youtube.com/watch?v=6RVmn9ycC2s
+
+Install pip from here -
+https://pip.pypa.io/en/stable/installing/
+
+
+pip install bson
+
+python create_fb_json.py > output2.json
